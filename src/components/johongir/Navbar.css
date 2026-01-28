@@ -1,0 +1,31 @@
+.Navbar {
+    display: flex;
+    gap: 100px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 120px;
+}
+.Text{
+    display: flex;
+    gap: 50px;;
+}
+
+.Text a{
+    text-decoration: none;
+    color: white;  
+     
+}
+
+.Text a:hover{
+    color: #10A37F;
+}
+
+
+.button button{
+    padding: 11px 34px;
+    background-color: #10A37F; 
+    color: white;
+    border: none;
+    border-radius: 8px;
+}
+

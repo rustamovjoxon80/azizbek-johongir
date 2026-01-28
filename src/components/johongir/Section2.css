@@ -1,0 +1,29 @@
+.section2-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 150px;
+    align-content: center;
+}
+
+.section2-card{
+    border: 2px solid #10A37F;
+    width: 272px;
+    height: 222px;
+    border-radius: 10px;
+    align-content: center;
+    text-align: center;
+}
+
+.section2-card p{
+    color: #ffffff;
+    align-items: center;
+    padding-top: 35px;
+}
+
+.t h4{
+    color: white;
+    text-align: center;
+    font-size: 68px;
+    font-weight: 800;
+}
